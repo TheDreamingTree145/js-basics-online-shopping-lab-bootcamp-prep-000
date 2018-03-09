@@ -4,6 +4,9 @@ function setCart(newCart) {
   cart = newCart;
 }
 
+function viewCart() {
+  console.log("Hello")
+}
 function total() {
   let t = 0
 
